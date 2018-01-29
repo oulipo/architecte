@@ -1,0 +1,15 @@
+{
+    "name": "laurent/architecte",
+    "authors": [
+        {
+            "name": "laurent",
+            "email": "laudesj@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ecv\\Architecture\\": "lib/"
+        }
+    }
+}
